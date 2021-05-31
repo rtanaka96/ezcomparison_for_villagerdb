@@ -1,0 +1,13 @@
+@-moz-document domain("villagerdb.com") {
+/* .list-compare-shared:last-of-type {
+    margin-bottom:20px;
+} */
+
+.list-compare-missing:last-of-type {
+    margin-bottom:20px;
+}
+
+.list-compare-missing {
+    background:#f2dede;
+}
+}
